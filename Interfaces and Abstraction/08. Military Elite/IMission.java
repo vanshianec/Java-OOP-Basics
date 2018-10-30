@@ -1,0 +1,3 @@
+interface IMission {
+    void completeMission();
+}
